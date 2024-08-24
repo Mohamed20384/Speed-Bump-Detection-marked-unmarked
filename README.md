@@ -8,3 +8,5 @@ Addressed a real-world challenge in our graduation project by detecting unmarked
 Night 
 
 ![bump6](https://github.com/user-attachments/assets/2a051db8-d8ab-4680-942f-8bc4fcf890be)
+
+![video_out6](https://github.com/user-attachments/assets/be1ebe53-fdeb-472c-b010-65a62be9e2d1)
